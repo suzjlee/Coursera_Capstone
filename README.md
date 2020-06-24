@@ -11,4 +11,6 @@ Applied Data Science Capstone Project
 
 <a href="https://gist.github.com/890e9851c4a5327aa8a1adad812294ff">Segmenting and Clustering Neighborhoods in Toronto (Part II)</a>
 
+<a href="https://gist.github.com/1af9a5f84ba6255d55861adca565b09f">Segmenting and Clustering Neighborhoods in Toronto (Part II and III)</a>
+
 
